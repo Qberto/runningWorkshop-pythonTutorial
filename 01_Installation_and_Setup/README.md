@@ -79,13 +79,13 @@ Your output should look like the following:
 
 Congratulations! You've written and executed a Python script!
 
-# Step 3: Install Sublime Text 3
+# Step 2: Install Sublime Text 3
 
 Writing code on a notepad editor is not very helpful once we start getting into more complex work. For this reason, we'll make use of a text editor that is intended for writing code. Sublime Text 3 is a free, lightweight program intended to help you quickly author Python scripts with syntax highlighting and additional extensible tools. 
 
 The installer can be found at: https://www.sublimetext.com/3
 
-# Step 4: Install PyCharm
+# Step 3: Install PyCharm
 
 While Sublime Text 3 helps us edit Python code by highlighting syntax, there are far more comprehensive tools for authoring Python code once we get into more complex workflows. These tools are referred to as Integrated Development Environments, or IDEs for short. 
 
