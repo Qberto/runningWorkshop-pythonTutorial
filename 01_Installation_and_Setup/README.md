@@ -11,7 +11,7 @@ Once downloaded, run the installer and leave the following two options **uncheck
 - Add Anavonda to my PATH environment variable
 - Register Anaconda as my default Python 3.7
 
-![Unchecked Options](https://github.com/Qberto/runningWorkshop-pythonTutorial/tree/master/media/anaconda02.PNG) 
+![Unchecked Options](https://github.com/Qberto/runningWorkshop-pythonTutorial/blob/master/media/anaconda02.PNG) 
 
 Once installation is complete, let's run a few checks:
 
