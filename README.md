@@ -1,6 +1,8 @@
-# Taming the Python - A Solution Engineer Running Workshop to Start Making Python Useful
+# Spatial Analysis Cohort - Introduction to Python
 
-Welcome to the running workshop on Python! This repository is intended to provide an introduction to Python and its ecosystem. We'll cover installation, overview of Python as a language, a program, and ecosystem for automation, data science, and much more. Select the links below to get started. 
+Welcome to an Introduction to Python! This repository is intended to help you get started with Python: the language, the program, and the ecosystem. If attending a live presentation, select the link below to follow the introduction with us:
+
+![Live Demo Introduction](https://slides.com/anieto/pythonintro/live) 
 
 # Introduction
 
@@ -28,19 +30,25 @@ There are a tremendous amount of Python enthusiasts that are building Python too
 
 ## Why is Python?
 
+Python is used successfully in thousands of real-world business applications around the world, including many large and mission critical systems. Here are some quotes from happy Python users:
+
 "Python plays a key role in our production pipeline. Without it a project the size of Star Wars: Episode II would have been very difficult to pull off. From crowd rendering to batch processing to compositing, Python binds all things together," said Tommy Burnette, Senior Technical Director, Industrial Light & Magic.
+
+This quote is less impressive when you actually remember Star Wars: Episode II...
 
 ## Where is Python?
 
-Python can be installed in far too many ways. That's part of what makes it a bit confusing to get started... For example, all Macs come with Python. ArcGIS itself comes with Python, and ArcMap came with a different version of Python than ArcGIS Pro, which changed the rules for how to use it. There is also a Python executable that you can install directly from the Python Software 
+Python can be installed in far too many ways. That's part of what makes it a bit confusing to get started... For example, all Macs come with Python. ArcGIS itself comes with Python, and ArcMap came with a different version of Python than ArcGIS Pro, which changed the rules for how to use it. There is also a Python executable that you can install directly from the Python Software Foundation at Python.org... but most people recommend that you install Python from a larger package, like the one from Anaconda, which includes scientific libraries. Blah blah blah blah...
 
-Needless to say, this is part of what makes getting started a bit less straightforward than installing yelp on your phone (this workshop is not sponsored by Yelp).
+Needless to say, this is part of what makes getting started a bit less straightforward than installing yelp on your phone (this workshop is not sponsored by Yelp). It's tough to know where to get started. 
 
-To make things easy, we'll start with 
+To make things easy, we'll start our exploration with the Anaconda distribution of python. 
 
+![Python in ArcGIS Pro](https://pro.arcgis.com/en/pro-app/arcpy/get-started/installing-python-for-arcgis-pro.htm)
+
+We will also recommend a supplemental Python installation from Anaconda, since it does come turbo-charged with a large amount of packages and tools that will help us use Python
 
 
 ## When is Python?
 
-Now!
-
+Now! Let's get started.
