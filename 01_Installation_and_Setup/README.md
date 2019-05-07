@@ -56,7 +56,7 @@ Exit the python command prompt by entering:
 
 And pressing enter. Your command prompt should look like this:
 
-![Anaconda Command Prompt](https://github.com/Qberto/cv-objectdetection-workshop-2018/blob/master/media/cmd01.PNG) 
+![Anaconda Command Prompt](https://github.com/Qberto/runningWorkshop-pythonTutorial/blob/master/media/cmd01.PNG) 
 
 2. Write and save a python script, then execute it. 
 
@@ -75,7 +75,7 @@ Now, let's execute this script by running:
 
 Your output should look like the following:
 
-![Anaconda Command Prompt](https://github.com/Qberto/cv-objectdetection-workshop-2018/blob/master/media/cmd01.PNG) 
+![Anaconda Command Prompt](https://github.com/Qberto/runningWorkshop-pythonTutorial/blob/master/media/cmd02.PNG) 
 
 Congratulations! You've written and executed a Python script!
 
